@@ -1,3 +1,11 @@
-#Desafio de Programação Orientada a Objetos da DIO
+# 🚀 Desafio de Programação Orientada a Objetos — DIO
 
-Desafio prático do paradigma de Programação Orientada a Objetos, visando trabalhar as principais ferramentas da OO: Abstração, Encapsulamento, Herança e Polimorfismo por meio de um projeto Java.
+Desafio prático do paradigma de **Programação Orientada a Objetos**, com o objetivo de trabalhar os principais pilares da OO:
+
+- 🔹 **Abstração**
+- 🔹 **Encapsulamento**
+- 🔹 **Herança**
+- 🔹 **Polimorfismo**
+
+Tudo isso aplicado por meio de um **projeto em Java** ☕
+
